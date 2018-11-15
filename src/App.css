@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -29,4 +29,35 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.card{
+  width: 292px;
+  height: 296px;
+}
+.root{
+  background: white;
+  border: 1px solid gray;
+}
+.avatar{
+  background: green;
+}
+.title{
+  height: 24px;
+  margin-top: 20px;
+}
+.footer2{
+  font-size: 20px;
+  font-weight: bold;
+}
+.footer3{
+  text-align: left;
+  color: white;
+  font-size: 16px;
+}
+
+.footer4{
+  text-align: end;
+  color: white;
+  font-size: 12px;
 }
